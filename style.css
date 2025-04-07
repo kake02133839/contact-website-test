@@ -262,4 +262,14 @@ body {
     font-size: 30px !important;
     color: white !important;
   }
+  * {
+    all: unset !important;
+  }
+  
+  body {
+    background-color: hotpink !important;
+    font-size: 40px !important;
+    color: white !important;
+  }
+  
   
