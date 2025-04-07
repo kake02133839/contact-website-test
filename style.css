@@ -256,8 +256,10 @@ Footer
     font: bold;
 }
 
+
 body {
-    background-color: #ffdddd !important;
+    background-color: hotpink !important;
+    font-size: 30px !important;
+    color: white !important;
   }
-  
   
