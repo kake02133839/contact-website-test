@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'fullpage.js/dist/fullpage.min.css';
+
+
+/*スクロールをなめらかに*/
+html {
+  scroll-behavior: smooth;
+}
+
+
+
